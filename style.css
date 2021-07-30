@@ -1,0 +1,25 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+    font-family: Arial;
+    background-image: linear-gradient(to right top, #eeff00, #ddb01d,#d98b25, #aa4a0a, #f30000);
+    font-size: 25px;
+    
+}
